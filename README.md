@@ -45,8 +45,8 @@ Desarrollador con experiencia técnica industrial y enfoque Full Stack. Mi traye
 
 
 ### 📫 Conecta conmigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-fernando-pérez-yamasque-46a5a6241) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexisperezyamas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=style=flat&&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-fernando-pérez-yamasque-46a5a6241) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=style=flat&&logo=gmail&logoColor=white)](mailto:alexisperezyamas@gmail.com)
 
 ---
 *“Comprometido con la resolución de problemas complejos y la adaptación constante a nuevos retos tecnológicos.”*
