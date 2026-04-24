@@ -1,4 +1,6 @@
-# Hi there! I'm Alexis 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=200&section=header&text=Hi%21%20I%20am%20Alexis&fontSize=70&fontColor=293133&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=40E0D0&width=435&lines=Initializating+AI+Models...;Processing+Big+Data...;Systems+Online...)](https://git.io/typing-svg)
 
 ### Software Developer | AI & Big Data Specialist
 Software Developer with industrial technical experience and a Full Stack focus. My career path began in the **.NET** ecosystem and critical infrastructure management , and I am currently evolving towards **Machine Learning** and large-scale data processing.
@@ -35,6 +37,12 @@ Software Developer with industrial technical experience and a Full Stack focus. 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexisfpy&show_icons=true&theme=matrix" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexisfpy&layout=compact&theme=matrix" alt="Top Langs" height="170" />
+</p>
+
 
 ### 📈 Education & Key Achievements
 
