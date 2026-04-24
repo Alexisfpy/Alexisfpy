@@ -38,12 +38,6 @@ Software Developer with industrial technical experience and a Full Stack focus. 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexisfpy&show_icons=true&theme=matrix" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexisfpy&layout=compact&theme=matrix" alt="Top Langs" height="170" />
-</p>
-
-
 ### 📈 Education & Key Achievements
 
 * 🎓 **AI & Big Data Specialization** – Focused on Machine Learning models and Big Data systems.
