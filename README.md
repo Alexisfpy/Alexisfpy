@@ -1,4 +1,4 @@
-# Hi there! I'm Alexis Fernando Pérez Yamasque 👋
+# Hi there! I'm Alexis 👋
 
 ### Software Developer | AI & Big Data Specialist
 Software Developer with industrial technical experience and a Full Stack focus. My career path began in the **.NET** ecosystem and critical infrastructure management , and I am currently evolving towards **Machine Learning** and large-scale data processing.
