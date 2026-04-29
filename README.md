@@ -18,6 +18,7 @@ Software Developer with industrial technical experience and a Full Stack focus. 
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo&logo=powerbi&logoColor=black)
 
 **Backend & Industrial Development**:
 
@@ -33,7 +34,8 @@ Software Developer with industrial technical experience and a Full Stack focus. 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white) 
-[![GitFlow](https://img.shields.io/badge/GitFlow-ebebeb?style=flat&logo=git&logoColor=F05032)](https://nvie.com/posts/a-successful-git-branching-model/)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo&logo=git&logoColor=white)
+![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo&logo=Sourcetree&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
