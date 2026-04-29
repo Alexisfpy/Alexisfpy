@@ -20,7 +20,7 @@ Software Developer with industrial technical experience and a Full Stack focus. 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo&logo=powerbi&logoColor=black)
 
-**Backend & Industrial Development**:
+**Industrial Development**:
 
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
