@@ -7,7 +7,7 @@ Software Developer with industrial technical experience and a Full Stack focus. 
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 **AI & Big Data (Current Specialization)**:
 
@@ -40,7 +40,7 @@ Software Developer with industrial technical experience and a Full Stack focus. 
 
 ---
 
-### 📈 Education & Key Achievements
+### Education & Key Achievements
 
 * 🎓 **AI & Big Data Specialization** – Focused on Machine Learning models and Big Data systems.
 * 💻 **Industrial Technical Programmer** – Full Stack .NET development, migrating legacy systems (.NET Framework) to .NET Core, and database optimization in production environments.
